@@ -1,5 +1,5 @@
 ## Experiment 2: Numerical Python 
-This is the second of several repositories I will upload to document my progress in Python programming through several exercises I am and will be performing. This repository has four (4) supplementary files that includes one 'README' file, one compilation of the problems in one python notebook file, and two .npy files for each problems. In this project, I used Numerical Python (Numpy) in creating programs intended to solve problems involving arrays.
+This is the second of several repositories I will upload to document my progress in Python programming through several exercises I am and will be performing. This repository has four (4) supplementary files that includes one "README" file, one compilation of the problems in a pynb file "Magracia_PA2.pynb", and two Numpy files, "X_normalized.npy" and "div_by_3.npy", for each problems. In this project, I used Numerical Python (Numpy) in creating programs intended to solve problems involving arrays.
 
 ------------
 ## Given problems and their expected outputs:
